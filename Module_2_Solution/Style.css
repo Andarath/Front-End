@@ -9,7 +9,6 @@ h1{
 p {
   background-color: #bfbfbf;
   border: 2px solid black;
-  height: 200px;
   margin-right: 10px;
   margin-left: 10px;
   padding: 60px 10px 40px 10px;
@@ -22,11 +21,12 @@ p {
 }
 
 #p1 {
+  margin: 0;
   background-color: #D59898;
   position: absolute;
-  right: 0;
+  top: 16px;
+  right: 10px;
   font-weight: bold;
-  height: 40px;
   width: 120px;
   padding: 10px;
   text-align: center;
@@ -35,29 +35,30 @@ p {
 
 }
 #p2 {
+  margin: 0;
   background-color: #C14543;
   color: white;
   position: absolute;
-  right: 0;
+  top: 16px;
+  right: 10px;
   font-weight: bold;
-  height: 40px;
   width: 120px;
   padding: 10px;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
-
 }
+
 #p3 {
+  margin: 0;
  background-color: #E5D198;
   position: absolute;
-  right: 0;
+  top: 16px;
+  right: 10px;
   font-weight: bold;
-  height:40px;
   width: 120px;
   padding: 10px;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
-
 }
 
 
